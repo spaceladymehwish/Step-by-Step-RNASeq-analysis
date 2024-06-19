@@ -1,0 +1,7 @@
+
+hisat2 -build name-of-downloaded-genome-file give_file_name-for-indices eg. indices_reference_genome
+
+for help: hisat2 -build --help eg thread information etc
+
+hisat2 -p 12 --dta -x /home/mehwish/Desktop/melanome_RNASeq/indices/indices_reference_genome -1 /home/mehwish/Desktop/melanoma_RNASeq/trim/SRR14753170_trim_1.fastq.gz -2 /home/mehwish/Desktop/melanoma_RNASeq/trim/SRR14753170_trim_2.fastq.gz -S /home/mehwish/Desktop/melanoma_RNASeq/Alignment/SRR14753170.sam --summary-file /home/mehwish/Desktop/melanoma_RNASeq/Alignment/summary/SRR14753170.txt
+

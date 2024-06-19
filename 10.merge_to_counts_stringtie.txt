@@ -1,0 +1,1 @@
+mehwish@biocode:~/Desktop/melanoma_RNASeq/stringtie/assembly$ stringtie -e -B -G ~/Desktop/melanoma_RNASeq/stringtie/merge.gtf ~/Desktop/melanoma_RNASeq/Alignment/dedup/SRR14753171_dedup.bam -o ~/Desktop/melanoma_RNASeq/stringtie/counts/SRR14753171/SRR14753171_quant.gtf -p 14

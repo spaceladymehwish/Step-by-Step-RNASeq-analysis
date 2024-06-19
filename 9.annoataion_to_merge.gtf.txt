@@ -1,0 +1,2 @@
+
+mehwish@biocode:~/Desktop/melanoma_RNASeq/stringtie/assembly$ stringtie --merge *.gtf -G ~/Desktop/melanoma_RNASeq/indices/Homo_sapiens.GRCh38.109.gtf -o ~/Desktop/melanoma_RNASeq/stringtie/merge.gtf

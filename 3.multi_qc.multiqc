@@ -1,0 +1,11 @@
+use multiqc after finalqc 
+create a list in text doc of all samples and its directory
+go to the samples and folder where you want to perform multiqc 
+open terminal
+ls
+ls > file
+do some editing to add directories to all the samples eg find and replace function
+save file
+
+run command 
+multiqc -l filename -o output directory

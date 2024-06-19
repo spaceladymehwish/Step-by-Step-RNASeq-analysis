@@ -1,0 +1,4 @@
+
+open terminal in the respective folder or goto the folder with cd command
+
+sambamba markdup -r -t 12 ~/Desktop/melanoma_RNASeq/Alignment/sorted/SRR14753170_sorted.bam SRR14753170_dedup.bam

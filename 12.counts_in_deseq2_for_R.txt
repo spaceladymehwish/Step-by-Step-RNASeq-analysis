@@ -1,0 +1,9 @@
+python prepDE.py -i sample_lst.txt
+
+samples.txt = 
+ERR188021 <PATH_TO_ERR188021_quant.gtf>
+ERR188023 <PATH_TO_ERR188023_quant.gtf>
+ERR188024 <PATH_TO_ERR188024_quant.gtf>
+ERR188025 <PATH_TO_ERR188025_quant.gtf>
+ERR188027 <PATH_TO_ERR188027_quant.gtf>
+ERR188028 <PATH_TO_ERR188028_quant.gtf>
